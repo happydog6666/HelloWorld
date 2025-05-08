@@ -1,34 +1,18 @@
 # Framework RISC-V Mainboard 
-This repository is mainly for storing technical documents and instructions related to the framework RISC-V motherboard
+This repository mainly contains technical documentation and manuals for the Framework RISC-V motherboard.
 
 ## Release notes
 
-### FML13V03
-The latest FML13V03 release notes link:
-[Stay tuned](https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1)
-### FML13V01
-The latest FML13V01 release notes link:
-https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1
-
-
-### 
-
 |     Version         |   Status      |  Latest Release      |   Release Date  |  Notes |
 |---------------|---------------------------|---------------------------|----------------|----------------|
-| FML13V03  | Active (New!)          |  Stay tuned    |  Stay tuned   |     DC-ROMA RISC-V AI PC,The world's first 50 TOPS RISC-V Al PC        |
-| FML13V01      | `Maintenance`             |  [V1.1](https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1)    |  2025-2-17    |  The first RISC-V mainboard compatible with Framework Laptop 13           |
+| FML13V03  | Coming Soon       |  Coming Soon     |  Coming Soon    |     DC-ROMA RISC-V Mainboard  II for Framework（DC-ROMA RISC-V AI PC）      |
+| FML13V01      | `Maintenance`             |  [V1.1](https://github.com/DC-DeepComputing/fml13v01/releases/tag/V1.1)    |  2025-2-17    |   DC-ROMA RISC-V Mainboard  I for Framework Laptop 13           |
 
 
-
-
-## Technical Documents List
-Some related technical documents. Click on the document name to jump to the corresponding document
-
-### FML13V03 Document （New！）
-- Ubuntu System Installation Guide
-- Fedora System Installation Guide
-
-### FML13V01 Document
+## [FML13V03 （New！）](https://github.com/DC-DeepComputing/Framework/tree/main/FWL13V03)
+Coming Soon！！！
+## [FML13V01](https://github.com/DC-DeepComputing/Framework/tree/main/FML13V01) 
+Some Technical Documents: Click filenames to navigate to their locations.
 - [Framework Laptop Serial Port Connection Guide](DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)
 - Ubuntu System Installation Guide
 - Fedora System Installation Guide
@@ -42,21 +26,6 @@ Some related technical documents. Click on the document name to jump to the corr
 - How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13
 - DC-ROMA RISC-V Mainboard (Early Access Edition) for Framework Laptop 13 EC Firmware Flashing Instructions
   
-| FML13V03 Document link（New！）   | FML13V01 Document link    |             
-|--------------------------------------------|--------------------------------------------|
-|[Ubuntu System Installation Guide,Please refer to the documentation of FWL13V01](DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)       | [Ubuntu System Installation Guide](https://github.com/DC-DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)           |         
-|  To be determined        |Fedora System Installation Guide                  |      
-| To be determined   |DC-ROMA RISC-V Mainboard Replacement Guide                     |       
-| To be determined   | DC-ROMA RISC-V Mainboard Interface Overview                 |     
-| To be determined   |DC-ROMA RISC-V Mainboard Interface Compatibility List               |      
-| To be determined   |Cooler Master Mainboard Case Quick Start Guide           |      
-| To be determined   |Cooler Master Troubleshooting Guide              |      
-|  To be determined   |Framework Laptop 13 Troubleshooting Procedure Guide             |     
-|  To be determined   |Debug Expansion Card (UART_EC-S_USB-C) Product Manual              |     
-| To be determined   |How to Replace the Kernel with DC-Linux on DC-ROMA RISC-V Mainboard for Framework Laptop 13              |      
-| [Please refer to the documentation of FWL13V01](DeepComputing/Framework/blob/main/FML13V01/Ubuntu%2024.04%20Installation%20on%20the%20DC-ROMA%20RISC-V%20Mainboard.pdf)   |DC-ROMA RISC-V Mainboard (Early Access Edition) for Framework Laptop 13 EC Firmware Flashing Instructions             |     
-
-
 
 ## FML13V01/AppsForDeveloper/Ubuntu/README.md
 Some applications apt-get install notes for ubuntu
